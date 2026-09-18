@@ -1,7 +1,7 @@
 Package: RTCGA.clinical
 Type: Package
 Title: Clinical datasets from The Cancer Genome Atlas Project
-Version: 20151101.43.0
+Version: 20151101.43.1
 Date: 2016-04-26
 Author: Marcin Kosinski <m.p.kosinski@gmail.com>
 Maintainer: Marcin Kosinski <m.p.kosinski@gmail.com>
@@ -21,3 +21,4 @@ BugReports: https://github.com/RTCGA/RTCGA/issues
 Depends: R (>= 3.2.0), RTCGA
 biocViews: Annotation Data
 NeedsCompilation: no
+PackageStatus: Deprecated
